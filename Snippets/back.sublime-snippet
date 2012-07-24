@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[background do
+  $0
+end]]></content>
+    <tabTrigger>back</tabTrigger>
+    <scope>source.ruby.rspec</scope>
+    <description>background</description>
+</snippet>

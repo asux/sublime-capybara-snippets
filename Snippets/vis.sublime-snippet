@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[visit ${2:'${1:url}'}]]></content>
+    <tabTrigger>vis</tabTrigger>
+    <scope>source.ruby.rspec</scope>
+    <description>visit</description>
+</snippet>

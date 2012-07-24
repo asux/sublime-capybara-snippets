@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[attach_file '${1:id_or_name_or_label}', "${2:path}"]]></content>
+    <tabTrigger>atf</tabTrigger>
+    <scope>source.ruby.rspec</scope>
+    <description>attach_file</description>
+</snippet>

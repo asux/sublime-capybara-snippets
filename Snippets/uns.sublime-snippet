@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unselect '${1:id_or_name_or_label}']]></content>
+    <tabTrigger>uns</tabTrigger>
+    <scope>source.ruby.rspec</scope>
+    <description>unselect</description>
+</snippet>
