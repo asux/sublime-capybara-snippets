@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[fill_in '${1:id_or_name_or_label}', :with => '${2:value}']]></content>
+    <content><![CDATA[fill_in "${1:id_or_name_or_label}", :with => "${2:value}"]]></content>
     <tabTrigger>fil</tabTrigger>
     <scope>source.ruby.rspec</scope>
     <description>fill_in</description>

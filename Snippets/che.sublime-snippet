@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[check '${1:id_or_name_or_label}']]></content>
+    <content><![CDATA[check "${1:id_or_name_or_label}"]]></content>
     <tabTrigger>che</tabTrigger>
     <scope>source.ruby.rspec</scope>
     <description>check</description>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[select '${1:option_text}'${3:, :from => '${2:dropdown}'}$4]]></content>
+    <content><![CDATA[select "${1:option_text}"${3:, :from => "${2:dropdown}"}$4]]></content>
     <tabTrigger>sel</tabTrigger>
     <scope>source.ruby.rspec</scope>
     <description>select</description>

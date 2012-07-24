@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[click_button '${1:value}']]></content>
+    <content><![CDATA[click_button "${1:value}"]]></content>
     <tabTrigger>clb</tabTrigger>
     <scope>source.ruby.rspec</scope>
     <description>click_button</description>

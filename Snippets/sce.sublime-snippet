@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[scenario '${2:should ${1:description}}' ${3:do
+    <content><![CDATA[scenario "${2:should ${1:description}}" ${3:do
   $0
 end}]]></content>
     <tabTrigger>sce</tabTrigger>

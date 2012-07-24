@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[uncheck '${1:id_or_name_or_label}']]></content>
+    <content><![CDATA[uncheck "${1:id_or_name_or_label}"]]></content>
     <tabTrigger>unc</tabTrigger>
     <scope>source.ruby.rspec</scope>
     <description>uncheck</description>

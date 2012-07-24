@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[feature '${1:description}' do
-  scenario 'should ${2:description}' do
+    <content><![CDATA[feature "${1:description}" do
+  scenario "should ${2:description}" do
     $0
   end
 end]]></content>
