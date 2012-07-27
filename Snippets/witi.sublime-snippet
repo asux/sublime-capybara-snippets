@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+within(${2:"$1"}) ${3:do
+  $0
+end}]]></content>
+    <tabTrigger>witi</tabTrigger>
+    <scope>source.ruby.rspec</scope>
+    <description>within("") do</description>
+</snippet>

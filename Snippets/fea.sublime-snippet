@@ -6,5 +6,5 @@
 end]]></content>
     <tabTrigger>fea</tabTrigger>
     <scope>source.ruby.rspec</scope>
-    <description>feature "description" do ...</description>
+    <description>feature "description" do</description>
 </snippet>
