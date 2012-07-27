@@ -2,5 +2,5 @@
     <content><![CDATA[choose "${1:label}"]]></content>
     <tabTrigger>cho</tabTrigger>
     <scope>source.ruby.rspec</scope>
-    <description>choose</description>
+    <description>choose "label"</description>
 </snippet>

@@ -4,5 +4,5 @@
 end]]></content>
     <tabTrigger>back</tabTrigger>
     <scope>source.ruby.rspec</scope>
-    <description>background</description>
+    <description>background do ...</description>
 </snippet>

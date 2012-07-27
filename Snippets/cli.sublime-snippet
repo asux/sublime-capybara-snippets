@@ -2,5 +2,5 @@
     <content><![CDATA[click_link "${1:link_text}"]]></content>
     <tabTrigger>cli</tabTrigger>
     <scope>source.ruby.rspec</scope>
-    <description>click_link</description>
+    <description>click_link "link_text"</description>
 </snippet>

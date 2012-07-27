@@ -4,5 +4,5 @@
 end}]]></content>
     <tabTrigger>sce</tabTrigger>
     <scope>source.ruby.rspec</scope>
-    <description>scenario (String)</description>
+    <description>scenario "should description" do ...</description>
 </snippet>
