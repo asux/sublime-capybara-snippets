@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+page.should have_${1:css}(${3:"${2}"})
+]]></content>
+    <tabTrigger>psh</tabTrigger>
+    <scope>source.ruby.rspec</scope>
+    <description>page.should have_css("")</description>
+</snippet>
