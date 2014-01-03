@@ -1,5 +1,5 @@
-Capybara snippets for Sublime Text 2
-====================================
+Capybara snippets for Sublime Text 2/3
+======================================
 
 It contains snippets took from Webrat.tmbundle. And Cucumber-style DSL rspec macroses (feature, scenrio, background).
 
